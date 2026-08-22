@@ -1,11 +1,10 @@
-     2.1
-Kabanlo product is back,
-pancha Tool Sapphire product is back,
-added panchality preview,
-added exit button,
-Added blur to the changelog window,
-Improved downloading and checks for Python+libraries,
+        2.2
+added pancha tool 3+ preview,
+Improved checks for Python+libraries,
+rewritten log manager,
+added 2 page to products,
 Improved menu:
-|-added Animations for the "Save" button in the settings,
-|-added tab switching animations,
-|-added close animation.
+|-added Animations when opening settings,
+|-added new icons,
+|-improved transparency effect,
+|-settings looks more compact.
